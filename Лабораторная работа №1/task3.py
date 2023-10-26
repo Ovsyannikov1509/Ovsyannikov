@@ -4,4 +4,3 @@ first_team = list_players[:middle_of_players]
 second_team = list_players[middle_of_players:]
 print(first_team)
 print(second_team)
-# TODO Разделите участников на две команды
